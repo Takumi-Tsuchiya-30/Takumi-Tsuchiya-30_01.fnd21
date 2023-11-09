@@ -97,3 +97,19 @@
   color: white;
   background-color: blue;
 }
+
+#scroll2 {
+  margin-top: 730px;
+  margin-left: 150px;
+  font-size: 30px;
+  color: black;
+  background-color: white;
+  padding: 20px 80px;
+  border-radius: 30px;
+  position: absolute;
+}
+
+#scroll2:hover {
+  color: white;
+  background-color: blue;
+}
